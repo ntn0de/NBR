@@ -1,2 +1,3 @@
-# DeadSimpleSpeechRecognizer
-CNN based Minimal model for recognizing word
+# NEPALI BARNA RECOGNITION
+
+recognize ka kha ga right now
