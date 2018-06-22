@@ -1,0 +1,45 @@
+-----------
+tyo dataset ko figure
+----
+CNN ma relu selu pooling sooling thapnee
+--------
+CNN ko figure pani update hanne ho ki
+-----------
+Task completed
+
+Fed 5 alphabets
+
+
+-------
+Task remaining
+
+Creating web interface
+Using LSTM and other models
+ka dekhi gya samma ko dataset
+
+Discussion
+----------------
+Why CNN
+
+Because CNN is specially used for image processing . Other RNN are heavy and complex and used
+for complex calculations like predicting the sequence. Since we treat the audio signals as
+images and we dont have to predict the sequence, Cnn is used.
+
+Because of a very limited dataset, the accuracy of the recognition is less and we are getting
+many inaccurate results.
+
+
+
+--------------------------------------------
+Presentation
+
+
+intro	
+CNN figure
+
+Task remaining
+understanding more....
+Automatic speech generator
+
+
+
