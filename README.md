@@ -1,3 +1,2 @@
-# NEPALI BARNA RECOGNITION
-
-recognize ka kha ga right now
+# DeadSimpleSpeechRecognizer
+CNN based Minimal model for recognizing word

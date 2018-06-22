@@ -1,0 +1,49 @@
+-----------------------
+Methodology
+
+1.Creating dataset
+		1.Record(why 1 channel?)
+		2.Labeling
+
+
+		we cant process audio files directly, 
+		We need to convert them to a proper readable format.
+		So to feed them to CNN
+		we convert it to a fixed size vector
+		MFCC
+		
+2.Encoding dataset
+		MFCC-
+		fixed size vectors
+		image like data
+		extracts important features of speech
+		discards noises
+
+		But Why not others
+		Why MFCC
+		Results and calculations show that MFCC
+		algorithm provides better result in terms of efficiency and accuracy comparison
+		with other algorithm. 
+
+		+
+		It applies the Mel-frequency scaling, which is perceptual scale that helps to simulate the way human ear works. It corresponds to better resolution at low frequencies and less at high.
+
+		https://dsp.stackexchange.com/questions/19574/mel-filter-in-mfcc-is-it-necessary?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+
+		aswered by jojek
+
+3.Saving the MFCC of all the files to a numpy file. Because MFCC is calculated only once
+
+MFCC works(FPELDT)
+frame
+estimate power
+melfilter bank for energy
+take log of energy
+take DCT of the logs
+take 13-2 coff
+
+
+
+
+
+
